@@ -14,7 +14,7 @@
 <div class="container" style="margin-top:70px; padding-left:250px; padding-right:300px;">
 <div class="main">
   <div class="header" style="margin-top:10px;">
-  	<h1 style="border-bottom: solid 2px grey; padding-bottom:15px; padding-left:20px;">Register</h1>
+  	<h1 style="border-bottom: solid 4px black; padding-bottom:15px; padding-left:20px;">Register</h1>
   </div>
 	
   <form method="post" action="register.php" class="form-horizontal">
@@ -55,7 +55,7 @@
 	<div class="form-group">
 		<div class="col-sm-offset-4 col-sm-4">
   	<p>
-  		Already a member? <a href="login.php">Sign in</a>
+  		<b>Already a member?</b> <a href="login.php"><b>Sign in</b></a>
   	</p>
 		</div>
 	</div>

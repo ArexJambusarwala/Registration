@@ -43,7 +43,7 @@
 	<div class="form-group">
 		<div class="col-sm-offset-4 col-sm-4">
   	<p>
-  		Not yet a member? <a href="register.php">Sign up</a>
+  		<b>Not yet a member? <a href="register.php">Sign up</a></b>
   	</p>
 	</div>
 	</div>
